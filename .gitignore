@@ -1,0 +1,5 @@
+#ignore following files
+*.zip
+*.7z
+*.gz
+.DS_Store
