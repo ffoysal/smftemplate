@@ -230,3 +230,8 @@ footer {
 	padding: 0 6px;
 	font-size: 9.75px;
 }
+.smf-story-ellipsis {
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+}
