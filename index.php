@@ -105,7 +105,6 @@
 
         <!-- Page Content -->
         <div>
-            <hr>
     		
     	<jdoc:include type="component" />
             <!--hr-->
@@ -129,7 +128,7 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/js/bootstrap.min.js"></script>
-	<script src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/js/youtube.js"></script>
+	<!--script src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/js/youtube.js"></script-->
     <script src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/js/custom.js"></script>
 
 </body>
