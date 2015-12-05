@@ -8,8 +8,9 @@
 
 (function($)
 {
-	$(document).ready(function()
+	// future custom js code will be here
+	/*$(document).ready(function()
 	{
 		$(".youtube").YouTubeModal({autoplay:1, width:640, height:480});	
-	})
+	})*/
 })(jQuery);
